@@ -1,0 +1,7 @@
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\bin\Debug\FlooringCostEstimator.exe.config
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\bin\Debug\FlooringCostEstimator.exe
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\bin\Debug\FlooringCostEstimator.pdb
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\obj\Debug\FlooringCostEstimator.csprojAssemblyReference.cache
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\obj\Debug\FlooringCostEstimator.csproj.CoreCompileInputs.cache
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\obj\Debug\FlooringCostEstimator.exe
+E:\CSCI1630\FlooringCostEstimator\FlooringCostEstimator\obj\Debug\FlooringCostEstimator.pdb
