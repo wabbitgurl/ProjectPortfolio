@@ -1,0 +1,14 @@
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\bin\Debug\BMIKarvonenCalculator.exe.config
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\bin\Debug\BMIKarvonenCalculator.exe
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\bin\Debug\BMIKarvonenCalculator.pdb
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.csprojAssemblyReference.cache
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.csproj.CoreCompileInputs.cache
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.exe
+E:\CSCI1630\BMIKarvonenCalculator\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.pdb
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.csprojAssemblyReference.cache
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.csproj.CoreCompileInputs.cache
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.exe
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\obj\Debug\BMIKarvonenCalculator.pdb
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\bin\Debug\BMIKarvonenCalculator.exe.config
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\bin\Debug\BMIKarvonenCalculator.exe
+E:\CSCI1630\Exercise2\BMIKarvonenCalculator\bin\Debug\BMIKarvonenCalculator.pdb
